@@ -1,5 +1,3 @@
-# Lorenzo Perticone
-
 Currently a PhD Student at Chalmers University of Technology.
 
 TODO: write something here
