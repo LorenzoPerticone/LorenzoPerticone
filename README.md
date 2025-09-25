@@ -12,7 +12,7 @@ TODO: write something here
 
 - Effect Algebras as Omega-categories (arXiv: [2303.17257](https://arxiv.org/abs/2303.17257))
 
-- Parametric Distributive Laws: uniform monad composition (arXiv: TBA; [pdf]())
+- Parametric Distributive Laws: uniform monad composition (arXiv: TBA; [pdf](https://github.com/LorenzoPerticone/LorenzoPerticone/blob/main/Parametric%20Distributive%20Laws.pdf))
 
 # Talks & Presentations
 
