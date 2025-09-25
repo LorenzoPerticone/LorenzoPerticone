@@ -1,6 +1,7 @@
+<img src="https://www.chalmers.se/_next/image/?url=https%3A%2F%2Fcms.www.chalmers.se%2FMedia%2F2efklb3m%2Florenzop.jpeg%3Fwidth%3D600%26height%3D600%26v%3D1d9f874ff29e210%26quality%3D60%26format%3Dwebp&w=1920&q=90" width="300" height="300"/>
 Currently a PhD Student at Chalmers University of Technology.
 
-TODO: write something here
+My background is mostly in mathematics. My academic interests include (higher) category theory, algebraic geometry and topology, (classical and constructive) logic and theoretical computer science. I am especially fascinated by the rich interplay between these subjects.
 
 # CV
 
